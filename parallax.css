@@ -60,8 +60,4 @@ body{
   color: #fff;
 }
 
-@media(max-width: 568px){ /*anything under 'max-width', this action will be in-affect*/
-  .img1, .img2, .img3{
-    background-attachment: scroll;
-  }
 }
